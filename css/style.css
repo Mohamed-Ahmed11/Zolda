@@ -112,6 +112,7 @@
   float: right;
   position: relative;
   align-items: center;
+  margin-top: 15px;  
   padding: 0 3px;
 }
 
@@ -125,7 +126,8 @@
   position: absolute;
   color: #1f3632;
   font-size: 15px;
-  top: 22px;
+  top: 50%;
+  margin-top: -7.5px;
   left: 10px;
 }
 
